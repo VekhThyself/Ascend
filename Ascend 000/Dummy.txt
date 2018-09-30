@@ -1,3 +1,0 @@
-Commit testing text
-inside of it containing
-single dumb haiku
